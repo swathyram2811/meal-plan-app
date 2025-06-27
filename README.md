@@ -1,6 +1,10 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+## PROJECT DESCRIPTION
+
+This project is a full-stack AI-powered meal planning SaaS application built with Next.js, TypeScript, Tailwind CSS, and Prisma. It features secure user authentication using Clerk, subscription-based access via Stripe, and AI-driven meal plan generation using OpenAI. The app includes a modular UI with reusable components and protected routes managed through Next.js middleware. Users can sign up, manage their profiles, and subscribe to premium plans, with payment processing and billing handled through Stripe. The backend includes robust API routes for managing subscriptions and user data. The core functionality centers around generating personalized meal plans through AI, delivered in a clean, responsive UI. The project was thoroughly tested, debugged, and refined to ensure a smooth, production-ready experience.
 
 ## Getting Started
+
+
 
 First, run the development server:
 

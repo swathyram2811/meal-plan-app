@@ -131,7 +131,7 @@ export default function SubscribePage() {
               <h3 className="text-xl font-semibold">{plan.name}</h3>
               <p className="mt-4 flex items-baseline">
                 <span className="text-5xl font-extrabold tracking-tight">
-                  ${plan.amount}
+                  {plan.amount}
                 </span>
                 <span className="ml-1 text-xl font-semibold">
                   /{plan.interval}
