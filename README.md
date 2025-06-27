@@ -20,7 +20,7 @@ npm run prisma init
 # to add seed the prisma db
 npx prisma migrate dev --name init
 
-acct_1RbNrFCju2XntLDd
+
 
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
